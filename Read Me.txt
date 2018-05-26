@@ -1,0 +1,10 @@
+Pre-Execution instructions:
+-bookstore.php is to be executed and is the index file
+-This will only work if an apache server is running
+-The Database details (servername, username, password, databasename) has to be updated in all the php files from lines 57-60
+
+
+Description:
+-The goal of this project is to replicate an Online Bookstore
+-A Database stores a collection of data about books and relavant information
+-Any query can be executed on the webpage except for delete or similar.
